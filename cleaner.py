@@ -14,4 +14,3 @@ def clean_data(data):
     return clean_data
 
     #list slicing?
-    
